@@ -9,4 +9,4 @@ theme:
     - navigation.top      # Fügt einen "Zurück zum Anfang"-Button hinzu
 nav:
   - Home: index.md
-  - Medienstudio: Medienstudio.md
+  - Medienstudio: Medienstudio2.md
