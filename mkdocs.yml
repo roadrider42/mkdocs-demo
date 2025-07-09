@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name: Projekte
 site_url: https://roadrider42.github.io/mkdocs-demo/
 theme:
   name: material
@@ -8,4 +8,4 @@ theme:
     - navigation.top      # Fügt einen "Zurück zum Anfang"-Button hinzu
 nav:
   - Home: index.md
-  - Medienstudio: Medienstudio.md
+  - Medienstudio: Medienstudio2.md
