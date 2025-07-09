@@ -1,15 +1,10 @@
-# Welcome to MkDocs
+# Welcome to my projects
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hallo und guten Tag!
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new cooler project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-[Medienstudio](Medienstudio.md)  
 [Medienstudio2](Medienstudio2.md)  
 
 ## Project layout
