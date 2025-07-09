@@ -2,6 +2,10 @@ site_name: My MkDocs Material Documentation
 site_url: https://sitename.example
 theme:
   name: material
+  features:
+    - navigation.sections  # Gruppiert Seiten in Abschnitte
+    - navigation.expand   # Erweitert alle Untermenüs standardmäßig
+    - navigation.top      # Fügt einen "Zurück zum Anfang"-Button hinzu
 nav:
   - Home: index.md
   - Medienstudio: Medienstudio.md
