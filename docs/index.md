@@ -9,6 +9,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+[Erste Schritte](Medienstudio.md)  # Korrekt
+
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
